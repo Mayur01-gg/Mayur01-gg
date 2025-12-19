@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Mayur Chalke!  
 
 ## 🚀 About Me  
-💻 **Tech Enthusiast | Developer—coding for work and fun!**  
+💻 **Tech Enthusiast | Developer - coding for work and fun!**  
 🎓 **Pursuing a Degree in AI & Data Science**  
 🌟 **Passionate about AI, machine learning, and software development, I love building innovative solutions that solve real-world problems. Always exploring cutting-edge tech to create meaningful impact!**  
 
